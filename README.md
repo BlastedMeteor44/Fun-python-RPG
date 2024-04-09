@@ -10,7 +10,7 @@ Images:
 
 # **INSTALL INSTRUCTIONS**<br>
 Dependecies: Python installed. If you don't have python go to this link: https://kinsta.com/knowledgebase/install-python/<br>
-Download this repository as a zip and extract.<br>
+Download the latest release as a zip and extract.<br>
 Then click main.py<br>
 
 

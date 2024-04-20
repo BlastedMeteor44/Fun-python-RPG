@@ -9,7 +9,8 @@ Images:
 ![image](https://github.com/ruhaan-bit/Fun-python-RPG/assets/65218875/a921fe27-3718-4671-a37e-15a3d97698ad)
 
 # **INSTALL INSTRUCTIONS**<br>
-Dependecies: Python installed. If you don't have python go to this link: https://kinsta.com/knowledgebase/install-python/<br>
+Dependecies: Python installed.<br>The "os", "random", "time" and "sys" libraries installed <br>
+**THEN**<br>
 Download the latest release as a zip and extract.<br>
 Then click main.py<br>
 
